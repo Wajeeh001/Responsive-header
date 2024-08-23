@@ -7,6 +7,7 @@
 
 body{
     font-family: Arial, Helvetica, sans-serif;
+    background-color: gray;
 }
 
 nav{
@@ -38,4 +39,25 @@ nav ul li a{
 
 .menu{
     display: none;
+}
+
+@media (max-width: 700px) {
+    nav ul{
+        position: absolute;
+        top: 58px;
+        left: 0;
+        right: 0;
+        flex-direction: column;
+        text-align: center;
+        background-color: black;
+        gap: 0;
+    }
+
+    nav ul li{
+        padding: 20px;
+    }
+
+    .menu{
+        display: block;
+    }
 }

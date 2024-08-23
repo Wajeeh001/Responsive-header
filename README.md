@@ -17,8 +17,3 @@ Welcome to my repository! Here you'll find a responsive header with a sleek hamb
 - **Stylish Hamburger Menu**: Provides a clean and intuitive navigation experience for users.
 - **Easy Integration**: Simple to include in your existing projects with minimal adjustments.
 
-## How to Use
-
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/yourusername/your-repository.git
